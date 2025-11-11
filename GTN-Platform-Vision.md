@@ -11,11 +11,29 @@
 
 ### What GTN Is
 
-**GTN** is the **economic coordination platform for network states** that enables communities to fairly compensate all forms of human contribution—from making introductions to building culture to shipping code.
+**GTN** (Global Transformation Network) is **transformational coordination infrastructure for network states**—the only platform where human development IS the infrastructure, where citizens don't just use tools to coordinate, they evolve their capacity to govern, create, and build together through developmental intelligence.
 
-**Foundation**: GTN builds on learnings from EVOLUTION.LIFE (27K paying users, $2M revenue) and includes all its capabilities (assessment + matching) **PLUS** a complete economic coordination layer.
+**Critical Distinction**: GTN is NOT just economic coordination infrastructure. It is **human coordination AND evolution infrastructure** where transformation enables coordination, and coordination accelerates transformation.
 
-**Core Innovation**: We transform match quality (predicted compatibility between humans) into economic infrastructure (fair value distribution), creating a new paradigm beyond traditional employment and gig economy models.
+**Core Philosophy**: You don't transform THEN coordinate. **You transform BY coordinating.**
+
+**Foundation**: Built on EVOLUTION.LIFE (27K paying users, $2M revenue, 158K registrations) with proven transformation methodology.
+
+### The Core Innovation: Collaborative Evolution
+
+**What Makes GTN Unique**:
+- **14 Data-Driven Coordination Patterns**: Derived from 27K EVOLUTION.LIFE users' actual coordination data (NOT archetypal theory)
+- **Reactive → Responsive → Realized**: Transformation spectrum tracking developmental maturity
+- **840+ Hours of Developmental Content**: 5-level journey (Understanding → Solo → Relational → Collective → Mastery)
+- **AI-Enhanced Collective Evolution**: Real-time pattern recognition, developmental guidance, predictive governance
+- **Transformation Through Relationship**: Citizens evolve capacity to govern together through Practice Pods and Facilitator economy
+
+**Why This Matters for Network States**:
+- Traditional companies survive with reactive humans (rigid hierarchy compensates)
+- Network states REQUIRE responsive+ humans (emergent governance depends on developmental maturity)
+- GTN makes developmental journey **visible, trackable, and collectively practiced**
+
+**Economic Coordination**: Fair compensation for ALL contributions (introductions, mentorship, culture building, technical work) weighted by match quality and transformation level.
 
 ### GTN ↔ EVOLUTION.LIFE Relationship
 
@@ -34,24 +52,31 @@
 
 **Key Distinction**: EVOLUTION.LIFE serves individuals; GTN serves communities with full economic coordination.
 
-### The Complete Value Proposition
+### Quadruple Value Proposition
 
-**For Individuals**:
-- Transform from Reactive → Responsive → Realized states of consciousness
-- Get matched with optimal collaborators through 4-dimensional compatibility (talent, virtue, vision, synergy)
-- Receive fair compensation for ALL contributions (introductions, mentorship, culture building, technical work)
-- Build portable reputation across network states
+**1. Transformational Infrastructure** (The CORE differentiator)
+- 840+ hours of developmental content across 14 coordination patterns
+- 5-level Collaborative Evolution journey (Understanding → Mastery)
+- AI-enhanced collective evolution (predictive governance, conflict prevention)
+- Facilitator economy (realized citizens earn by guiding others)
+- Network states REQUIRE responsive+ humans—GTN provides the developmental infrastructure
 
-**For Network States**:
-- Solve retention crisis (current 60% churn → target 85% retention through fair attribution)
-- Enable economic coordination at scale (track and compensate diverse contributions automatically)
-- Form optimal teams through predictive matching (15x higher co-founder success rate)
-- Become the coordination protocol for the entire movement
+**2. Economic Coordination** (Fair value distribution)
+- Receive fair compensation for ALL contributions (introductions, mentorship, culture, technical work)
+- 7-dimensional value attribution weighted by match quality and transformation level
+- Solve retention crisis (60% churn → 85% retention through fair attribution)
+- Portable reputation across network states
 
-**For the Movement**:
-- Infrastructure-level solution that all network states can build on
-- Cross-network reputation portability (work in one, recognized in all)
+**3. Predictive Matching** (Synergy optimization)
+- 4-dimensional compatibility scoring (talent, virtue, vision, economic synergy)
+- Match quality predicts outcomes (85+ matches = 5x more likely to succeed)
+- 15x higher co-founder success rate vs. random pairings
+- Team formation optimized BEFORE collaboration begins
+
+**4. Ecosystem Infrastructure** (Movement-wide coordination)
+- Cross-network reputation portability (work in one NS, recognized in all)
 - Third economic paradigm: neither employment nor gig work, but consciousness-driven coordination
+- Cooperation dynamics (horizontal infrastructure all NS can build on)
 
 ---
 
