@@ -1,8 +1,22 @@
 # GTN Documentation
 
-## Document Structure (5 Core Documents)
+## Document Structure (6 Core Documents)
 
-### 1. GTN-Synthesized-Roadmap.md (40K) 🗺️ **START HERE**
+### 1. GTN-Product-Requirements-Document.md (19K) 📋 **PRODUCT OVERVIEW**
+**Purpose**: Synthesized PRD connecting vision → roadmap → development lifecycle
+**Audience**: Product team, developers, new stakeholders, execution planning
+**Contains**:
+- **Part 1: Executive Vision** (What GTN is, core philosophy, transformation promise)
+- **Part 2: Collective Evolution Framework** (14 patterns, 5-level journey, how citizens connect)
+- **Part 3: Platform Architecture** (Social platform, economic coordination, content marketing, Slack integration)
+- **Part 4: Development Roadmap** (MVP → Social Platform → Content → Economic/Slack)
+- **Part 5: Success Vision** (3-year, 5-year, 10-year goals)
+
+**When to use**: Understanding development lifecycle, product planning, stakeholder onboarding
+
+---
+
+### 2. GTN-Synthesized-Roadmap.md (40K) 🗺️ **STRATEGIC ROADMAP**
 **Purpose**: Objectives-focused roadmap visualizing current state → development vectors
 **Audience**: Entire team, strategic planning, execution clarity
 **Contains**:
@@ -16,7 +30,7 @@
 
 ---
 
-### 2. GTN-Platform-Vision.md (32K)
+### 3. GTN-Platform-Vision.md (32K)
 **Purpose**: Complete platform strategy and capabilities
 **Audience**: Product team, NS partners, strategic overview
 **Contains**:
@@ -30,7 +44,7 @@
 
 ---
 
-### 2. GTN-Bootstrap-Capitalization-Strategy.md (18K) ⭐ **ACTIVE STRATEGY**
+### 4. GTN-Bootstrap-Capitalization-Strategy.md (18K) ⭐ **ACTIVE STRATEGY**
 **Purpose**: Ultra-lean bootstrap path to community ownership
 **Audience**: Founders, potential angels/grants, DAO token investors
 **Contains**:
@@ -46,7 +60,7 @@
 
 ---
 
-### 4. GTN-Regenerative-Social-Platform-Vision.md (45K) 🌱 **STRATEGIC EXPANSION**
+### 5. GTN-Regenerative-Social-Platform-Vision.md (45K) 🌱 **STRATEGIC EXPANSION**
 **Purpose**: Evolution from B2B → Consumer social platform replacing extractive social media
 **Audience**: Founders, investors, strategic partners, product team
 **Contains**:
@@ -61,7 +75,7 @@
 
 ---
 
-### 5. GTN-Risk-Analysis-Multi-Strategy.md (26K)
+### 6. GTN-Risk-Analysis-Multi-Strategy.md (26K)
 **Purpose**: Evidence-based risk analysis and portfolio approach
 **Audience**: Strategic planning, risk assessment
 **Contains**:
@@ -76,11 +90,13 @@
 
 ## Quick Reference
 
-**New to GTN?** → GTN-Synthesized-Roadmap.md 🗺️ **START HERE**
+**New to GTN?** → GTN-Product-Requirements-Document.md 📋 **START HERE**
+**Need strategic roadmap?** → GTN-Synthesized-Roadmap.md 🗺️
 **Need platform overview?** → GTN-Platform-Vision.md
 **Need capitalization strategy?** → GTN-Bootstrap-Capitalization-Strategy.md ⭐
 **Need social platform vision?** → GTN-Regenerative-Social-Platform-Vision.md 🌱
 **Need risk analysis?** → GTN-Risk-Analysis-Multi-Strategy.md
+**Need development lifecycle?** → GTN-Product-Requirements-Document.md (MVP → Social → Content → Economic)
 **Need quick investor pitch?** → Bootstrap Capitalization executive summary
 **Need execution roadmap?** → GTN-Synthesized-Roadmap.md (objectives-focused, no timelines)
 
@@ -122,4 +138,4 @@ Contains superseded strategies and previous iterations:
 ---
 
 **Last Updated**: January 2025
-**Status**: 5-document structure with synthesized roadmap, B2B platform, bootstrap capitalization, and regenerative social expansion strategies
+**Status**: 6-document structure with product requirements (PRD), synthesized roadmap, platform vision, bootstrap capitalization, regenerative social expansion, and risk analysis strategies
