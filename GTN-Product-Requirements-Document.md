@@ -30,34 +30,23 @@ GTN is transformational coordination infrastructure for network states—the onl
 **Three Consciousness States** (derived from 27,000+ EVOLUTION.LIFE users):
 
 1. **Reactive State**: Triggered by external events, unconscious patterns dominating, binary thinking, coordination breakdowns
-2. **Responsive State**: Conscious awareness, healthy patterns under stress, paradox-holding, collaborative problem-solving
+2. **Responsive State**: Conscious awareness, healthy patterns under stress, paradox-holding(being/becoming), collaborative problem-solving
 3. **Realized State**: Embodied mastery, consistent responsive behavior, generative leadership, facilitates others' transformation
 
 ### 14 Data-Driven Coordination Patterns
 
 Derived from 27,000+ EVOLUTION.LIFE users' actual coordination data, organized into 5 capability clusters:
 
-**Fruitful Power** (4 patterns): Control↔Influence, Competition↔Collaboration, Conflict↔Diplomacy, Leadership↔Service
-
-**Management** (3 patterns): Rigidity↔Flexibility, Efficiency↔Effectiveness, Distraction↔Focus
-
-**Communication** (3 patterns): Dishonesty↔Transparency, Gossip↔Communication, Confusion↔Clarity
-
-**Leadership & Vision** (2 patterns): Arrogance↔Humility, Vision↔Purpose
-
-**Innovation** (2 patterns): Chaos↔Innovation, Stagnation↔Progress
-
 Each pattern exists on a spectrum from Reactive → Responsive → Realized. Citizens are assessed on current expression and practice specific patterns in 6-8 week Practice Pods.
 
 ### The 5-Level Journey
 
-**Level 1 (Foundation)**: Recognizing reactive patterns without shame (~60 hours per pattern)
+**Level 1 (Foundation)**: Recognizing reactive patterns without shame
 **Level 2 (Conscious Practice)**: Practicing responsive patterns in low-stress conditions
 **Level 3 (Stabilization)**: Maintaining responsive patterns under high-stress
 **Level 4 (Embodiment)**: Frequent realized consciousness experiences
 **Level 5 (Mastery)**: Stabilized realization, facilitator capacity
 
-**Total Content**: 840+ hours across 14 patterns × 5 levels
 
 ### How Citizens Connect
 
@@ -67,14 +56,6 @@ Each pattern exists on a spectrum from Reactive → Responsive → Realized. Cit
 4. **Shared Experience**: Pod members practice together, AI tracks patterns and what works
 5. **Collective Intelligence**: Successful patterns feed into network learning, realized citizens become facilitators
 
-### The Facilitator Economy
-
-**Qualification**: Citizens complete Level 5 mastery in coordination patterns
-**Marketplace**: Facilitators offer 1-on-1 guidance and Practice Pod facilitation
-**Economics**: Citizens pay in GTN tokens, 90% to facilitator, 10% platform fee
-**Result**: Serving transformation becomes viable career path ($60K-120K+/year for skilled facilitators)
-
----
 
 ## Platform Architecture
 
@@ -90,10 +71,9 @@ Each pattern exists on a spectrum from Reactive → Responsive → Realized. Cit
 - Transformation Profile (visual map of 14 patterns across Reactive/Responsive/Realized)
 - Practice Pod Spaces (private containers for 5-7 members practicing together)
 - Resonant Path Discovery (browse citizens on similar transformation journeys)
-- Facilitator Marketplace (search by pattern expertise, book sessions, pay in tokens)
 - Network State Governance Integration (developmental assessment linked to participation rights)
 
-**Why Network States Need This**: Transformation creates deep community bonds (3x retention vs. general membership), governance quality improvements (5x proposal quality, 80% less conflict), team formation success (4x vs. skill-only matching).
+**Why Network States Need This**: Transformation creates deep community bonds (increase retention vs. general membership), governance quality improvements (increase proposal quality, signifcant less conflict), team formation success (dramatical improvement vs. skill-only matching).
 
 ### Economic Coordination System: Pattern-Weighted Attribution
 
@@ -115,9 +95,9 @@ Each pattern exists on a spectrum from Reactive → Responsive → Realized. Cit
 **Pattern-Weighted Attribution**: Contributions weighted by developmental maturity on relevant patterns.
 - Reactive citizens: 1.0x multiplier
 - Responsive citizens: 1.5-2.0x multiplier
-- Realized citizens: 2.0-3.0x multiplier
+- Realized citizens: <2.0-3.0x multiplier
 
-**Why**: Realized citizens create asymmetric value through proven capacity to hold complexity, navigate conflict, and serve collective good. This should be reflected in economic distribution.
+**Why**: Realized citizens create asymmetric value through proven capacity to hold complexity, navigate conflict, and serve collective good. This should be reflected in economic distribution/NS reputation.
 
 **Example**: Two citizens each log 40 hours coordinating governance. Reactive citizen (1.0x weight) receives proportionally less than Realized citizen (2.5x weight) because realized consciousness prevented project from fracturing—worth 5-10x more than equivalent hours.
 
@@ -128,7 +108,7 @@ Each pattern exists on a spectrum from Reactive → Responsive → Realized. Cit
 **Core Messages**:
 - You can't build regenerative societies with extractive consciousness
 - Transformation acceleration happens in relationship (not solo practice)
-- Economic coordination should be weighted by developmental capacity
+- Economic coordination meets developmental evolution
 - AI-enhanced collective evolution is the next frontier
 
 **Distribution Strategy**:
@@ -150,6 +130,62 @@ Each pattern exists on a spectrum from Reactive → Responsive → Realized. Cit
 
 ---
 
+## Technical Architecture
+
+### Unified Platform Stack
+
+**Frontend Layer** (Single React Application):
+```
+User Dashboard:
+├── Profile (assessment results, transformation trajectory)
+├── Matches (resonant path recommendations + compatibility scores)
+├── Practice Pods (active pods + transformation dynamics)
+├── Contributions (real-time value tracking)
+├── Facilitator Marketplace (search, book, pay)
+└── Reputation (transformation credentials + portability)
+```
+
+**Backend Layer** (Microservices):
+```
+API Gateway (GraphQL/REST)
+├── Assessment Service (14 patterns, AI analysis)
+├── Matching Engine (resonant path + 4D compatibility)
+├── Pod Coordinator (Practice Pod formation + tracking)
+├── Contribution Tracker (7-dimensional value capture)
+├── Attribution Calculator (pattern-weighted value + synergy)
+├── Facilitator Marketplace (discovery, booking, payments)
+└── Reputation Manager (transformation credentials)
+```
+
+**Database Layer**:
+```
+PostgreSQL (Primary):
+- users, profiles, assessments (14 patterns)
+- resonant_paths, compatibility_scores
+- practice_pods, facilitators
+- contributions, value_units
+- attributions, distributions
+
+TimescaleDB (Time-Series):
+- Transformation velocity over time
+- Pattern progression tracking
+- Pod effectiveness metrics
+- Economic value trends
+```
+
+**Blockchain Layer** (Ethereum L2 - Polygon/Base):
+```
+Smart Contracts:
+├── GTN Token (facilitator payments, governance)
+├── Contribution Claims (pattern-weighted)
+├── Reputation NFT (transformation credentials)
+└── Economic Coordination (automated attribution)
+```
+
+**Data Flow**: Off-chain processing (fast, private, complex AI) → Signature-based batching → On-chain settlement (trustless, immutable). **Cost Savings**: 10-50x cheaper than fully on-chain, 100x faster UX.
+
+---
+
 ## Development Roadmap
 
 ### Current State: Where We Are
@@ -159,7 +195,6 @@ Each pattern exists on a spectrum from Reactive → Responsive → Realized. Cit
 - 840+ hours developmental content across 5 levels
 - 14 data-driven coordination patterns from user journeys
 - Assessment engine, facilitator certification program
-- Gallup research: 6x engagement, 4x economic effectiveness
 
 **What We DON'T Have Yet** (To Be Built):
 - Collective evolution social platform
@@ -171,68 +206,51 @@ Each pattern exists on a spectrum from Reactive → Responsive → Realized. Cit
 
 ### Development Lifecycle
 
-**Vector 1: Collective Evolution Social Platform** ← PRIMARY, NEXT IN DEVELOPMENT
-
-**Phase 0: Manual Validation → Platform Buildout** (6-12 months)
-- MVP: AI-Enhanced Individual Assessment (manual Practice Pod coordination)
-- Goal: Validate transformation methodology with 30-50 network state citizens
-- Success: 80%+ pod completion rate, measurable transformation progress
-
-**Platform MVP**: User authentication, Practice Pod creation/management, content delivery, basic AI assessment, facilitator marketplace V1, Trust Graph foundation
-
-**Scale**: 30-50 citizens (manual) → 300-500 citizens (platform)
-
-**Phase 1: Core Platform Foundation** (12-18 months)
+**Phase 1: Core Platform Foundation** (MVP)
 - Advanced AI assessment, collective intelligence V1, network state partnership tools
 - Scale: 1,000-2,000 active citizens across 3-5 network states
 - Success: Platform revenue positive (facilitator fees + NS partnerships cover costs)
 
-**Phase 2: Automation & Intelligence** (18-30 months)
+**Phase 2: Automation & Intelligence** 
 - Economic coordination engine launch, advanced AI collective intelligence, Slack integration beta
 - Scale: 3,000-5,000 active citizens, 8-12 network state partnerships
-- Success: $2M+ annual revenue, category leadership established
+- Success: category leadership established
 
-**Phase 3: Ecosystem Expansion** (30+ months)
-- Open facilitator ecosystem, API & integration platform, global expansion
+**Phase 3: Ecosystem Expansion** 
+- facilitator ecosystem, global expansion
 - Scale: 10,000+ active citizens, 30+ network state/community partnerships
 - Success: $8M+ annual revenue, GTN synonymous with "transformational coordination infrastructure"
 
-**Vector 2: Content Marketing & Thought Leadership** ← CONCURRENT (all phases)
+**Aditional Vector 1: Content Marketing & Thought Leadership** ← CONCURRENT (all phases)
 
 **Objective**: Create category, educate ecosystem about why transformation IS the infrastructure
 
 **Channels**: GTN blog, newsletter, Twitter, conferences, podcasts, academic journals
 
-**Vector 3: Economic Coordination System** ← BUILDS ON VECTOR 1 DATA
+**Additional Vector 2: Economic Coordination System** ← BUILDS ON builds on core platform DATA
 
-**Phase 0-1**: Algorithm design, data collection, simulations (0-18 months)
-**Phase 2**: Economic coordination launch in 2-3 pilot network states (18-30 months)
-**Phase 3**: Ecosystem scaling, 10+ communities adopting (30+ months)
+**Phase 0-1**: Algorithm design, data collection, simulations 
+**Phase 2**: Economic coordination launch in 2-3 pilot network states
+**Phase 3**: Ecosystem scaling, 10+ communities adopting
 
-**Vector 4: Slack Integration** ← PHASE 2+ (AFTER VECTOR 1 PROVEN)
+**Additional Vector 3: Internal Slack-System**  
 
-**Beta**: Pattern recognition bot, facilitator dispatch (18-24 months)
-**Scale**: 3+ network states using intelligence layer (24+ months)
+**Beta**: Pattern recognition bot, facilitator dispatch 
+**Scale**: 3+ network states using intelligence layer
 
----
+--- 
 
 ## Success Vision
 
-### 3 Years (Phase 2 Complete)
-- 5,000 active citizens across 10+ network states
-- 100+ facilitators earning full-time income ($60K-120K/year)
-- Economic coordination operational, governance quality provably improved
-- Category leadership: "transformational coordination infrastructure" established
-- Platform revenue: $2M+/year
 
-### 5 Years (Phase 3 Mature)
+### Mature
 - 10,000+ active citizens across 30+ network states/communities
 - 500+ certified facilitators (open ecosystem beyond EVOLUTION.LIFE)
 - GTN API standard for governance platforms
 - Published academic research validating collective evolution
 - Platform revenue: $8M+/year
 
-### 10 Years (Vision Realized)
+### Vision Realized
 - 100,000+ active citizens (transformation infrastructure mainstream)
 - Facilitator economy viable for thousands globally
 - Network states routinely use developmental assessment for governance
@@ -244,7 +262,7 @@ Each pattern exists on a spectrum from Reactive → Responsive → Realized. Cit
 ## The Paradigm Shift
 
 **From**: Assuming fixed human capacity, optimizing for efficiency
-**To**: Recognizing developmental capacity, optimizing for evolution
+**To**: Recognizing developmental capacity, optimizing for evolution, holding paradox (being vs becoming)
 
 **From**: 1-person-1-vote (democracy) or 1-token-1-vote (plutocracy)
 **To**: Pattern-weighted attribution (meritocracy based on proven developmental capacity)
@@ -274,12 +292,3 @@ GTN exists to prove a single thesis: **You cannot build regenerative societies w
 **Most importantly**: We will have demonstrated that **collective evolution is possible**—that groups of people can transform together, that AI can enhance (not replace) human development, and that conscious coordination can scale beyond small intentional communities to entire network states and regenerative societies.
 
 ---
-
-**For Expanded Details**:
-- **Platform Strategy**: GTN-Platform-Vision.md
-- **Strategic Roadmap**: GTN-Synthesized-Roadmap.md
-- **Consumer Social Vision**: GTN-Regenerative-Social-Platform-Vision.md
-- **Capitalization**: GTN-Bootstrap-Capitalization-Strategy.md (archive)
-
-**Document Version**: 2.0 (Compressed Strategic Overview)
-**Previous Version**: 1.0 (19K detailed specifications - too granular)
