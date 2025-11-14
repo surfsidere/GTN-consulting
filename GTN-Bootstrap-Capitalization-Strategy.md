@@ -44,6 +44,8 @@ GTN enters the market with a critical advantage: **a working MVP derived from 27
 - **Validated Market**: Evidence-based understanding of transformation infrastructure needs
 - **Technology Ready**: AI-enhanced collective evolution platform operational
 
+**Strategic Expansion**: GTN will evolve from B2B network state coordination to include **regenerative social platform** (consumer-facing)—replacing extractive social media with transformation-driven community infrastructure. This diversifies revenue streams while preserving the bootstrap path to 90% founder ownership. (See GTN-Regenerative-Social-Platform-Vision.md and GTN-Platform-Vision.md Part 11 for full framework.)
+
 ### Why Bootstrap Over VC
 
 **Philosophical Alignment**:
@@ -109,31 +111,39 @@ Total:                  $90K
 
 **Value Proposition**: Human-centered coordination infrastructure solving DAO engagement/retention crisis (Gallup research: 6x engagement, 4x economic effectiveness).
 
-### Sales Milestones
+### Sales Milestones (B2B + Consumer Social Combined)
 
-**Quarter 2 (Month 6): Early Validation**
-- **Target**: 10 customers
-- **MRR**: $7,500
-- **ARR**: $90,000
-- **Milestone**: Product-market fit signals
+**Quarter 2 (Month 6): Early Validation (B2B Focus)**
+- **B2B**: 10 NS customers @ $750/mo = $90K ARR
+- **Consumer Social**: Not launched yet
+- **Total ARR**: $90,000
+- **Milestone**: B2B product-market fit signals
 - **Burn Coverage**: 125% of monthly burn
-- **Customer Profile**: Early adopter DAOs (network state, co-living, tech communities)
+- **Customer Profile**: Early adopter network states, co-living communities
 
-**Quarter 4 (Month 12): Break-Even**
-- **Target**: 30 customers (+20 net new)
-- **MRR**: $25,500
-- **ARR**: $306,000
-- **Milestone**: Operational profitability
-- **Burn Coverage**: 510% of monthly burn (break-even achieved)
-- **Customer Profile**: Expansion to larger DAOs, early enterprise pilots
+**Quarter 4 (Month 12): Break-Even + Consumer MVP**
+- **B2B**: 25 NS customers (+15 net new) @ $850/mo = $255K ARR
+- **Consumer Social**: 500 freemium users @ $29/mo = $174K ARR
+- **Total ARR**: $429,000
+- **Milestone**: Operational profitability + consumer social validation
+- **Burn Coverage**: 715% of monthly burn (break-even achieved)
+- **Customer Profile**: Diversified NS portfolio + first consumer social cohort (1 NS pilot)
+- **Consumer Launch**: Months 7-9 MVP development, Month 10-12 first NS pilot (Próspera/Zuzalu)
 
-**Quarter 6 (Month 18): Token-Ready**
-- **Target**: 50 customers (+20 net new)
-- **MRR**: $45,000
-- **ARR**: $540,000
-- **Milestone**: Token sale readiness
-- **Valuation Support**: $50M FDV at 10x revenue multiple
-- **Customer Profile**: Diversified portfolio (NS DAOs, co-living, enterprise B2B2C)
+**Quarter 6 (Month 18): Token-Ready (Diversified Revenue)**
+- **B2B**: 40 NS customers (+15 net new) @ $900/mo = $432K ARR
+- **Consumer Social**: 1,500 freemium users @ $29/mo = $522K ARR
+- **Total ARR**: $954,000 (~$1M ARR milestone)
+- **Milestone**: Token sale readiness with multi-stream validation
+- **Valuation Support**: $100M FDV at 10x revenue multiple (stronger than B2B-only $50M)
+- **Customer Profile**: 40 B2B network states + 5 NSs with consumer social (1,500 users total)
+- **Risk Diversification**: Multi-stream revenue reduces dependency on single channel
+
+**Revenue Diversification Benefits**:
+- Faster path to $1M ARR (combined streams vs B2B alone)
+- Consumer social validates transformation demand at scale
+- Network states become distribution channel (cold-start problem solved)
+- Token sale benefits from larger TAM (B2B coordination + consumer social > B2B alone)
 
 ### Sales Execution Strategy
 
@@ -186,15 +196,18 @@ Total:                  $90K
 - **Raise Amount**: $5,000,000
 - **Token Price**: $0.05/token
 - **Tokens Sold**: 100,000,000 (10% of supply)
-- **Valuation**: $50,000,000 FDV (10x revenue multiple on $540K ARR)
+- **Valuation**: $50,000,000 FDV (conservative 5x revenue multiple on $954K ARR)
+  - *Note: Diversified revenue (B2B + consumer social) supports higher multiples vs single-stream B2B*
+  - *Alternative scenario: $100M FDV at 10x multiple = $10M raise at 10% dilution (stronger negotiating position)*
 - **Target Investors**: 50-100 DAOs ($50-100K each)
 
 **Why DAOs Will Invest**:
-1. **Proven Traction**: 50 paying customers, $540K ARR, profitable
-2. **Product-Market Fit**: Real revenue, not speculation
-3. **Strategic Alignment**: DAOs investing in their own coordination infrastructure
-4. **Network Effects**: More DAO customers = more valuable platform = token value appreciation
-5. **Dual Benefit**: Both customer AND investor (perfect incentive alignment)
+1. **Proven Traction**: 40 B2B customers + 1,500 consumer users, $954K ARR, profitable
+2. **Diversified Revenue**: Multi-stream validation (B2B + consumer social) reduces risk vs single-channel
+3. **Product-Market Fit**: Real revenue from multiple customer segments, not speculation
+4. **Strategic Alignment**: DAOs investing in their own coordination + social infrastructure
+5. **Network Effects**: More customers (B2B + consumer) = more valuable platform = token value appreciation
+6. **Dual Benefit**: Both customer AND investor (perfect incentive alignment)
 
 ### Token Utility (Four-Layer Model)
 
@@ -296,18 +309,41 @@ Total:                  $90K
    - Develop white-label capability for enterprise B2B2C
 
 **Success Criteria**:
-- 30 paying customers by Month 12
-- $306K ARR (break-even achieved)
-- 50% of new customers from inbound leads
-- NPS score >50
+- 30 paying B2B customers by Month 12
+- 500 consumer social freemium users by Month 12
+- $429K ARR (break-even achieved with diversified revenue)
+- 50% of new B2B customers from inbound leads
+- NPS score >50 (both B2B and consumer segments)
+
+**Consumer Social Launch (Months 7-12)**:
+
+**Months 7-9: MVP Development** ($0 additional capital)
+- Leverage existing GTN transformation infrastructure
+- Build Trust Graph feed (≥2 endorsement visibility)
+- Simple facilitator marketplace (in-app transactions)
+- Mobile-first responsive design (web-based, not native apps yet)
+
+**Months 10-12: First NS Pilot** (Próspera or Zuzalu)
+- 100-300 users from single network state
+- Validate regenerative model (transformation milestones + anti-performative design)
+- Measure engagement (target: 60%+ weekly active)
+- Freemium tier pricing: $29/month
+- Success metric: ≥80% user satisfaction, 10+ facilitator transactions
+
+**Rationale**:
+- Consumer social funded from B2B revenue (no additional capital required)
+- Network state customers become distribution channel (cold-start problem solved)
+- Validates transformation demand at scale (strengthens B2B value proposition)
+- Diversifies revenue streams (reduces dependency on B2B sales cycles)
 
 ### Phase 3: Scale (Months 13-18)
 
 **Objectives**:
-- Reach 50 customers ($540K ARR)
-- Prepare for token sale
+- Reach 40 B2B customers + 1,500 consumer users ($954K ARR total)
+- Scale consumer social to 5 network states
+- Prepare for token sale with diversified revenue validation
 - Build DAO investor pipeline
-- Establish market leadership position
+- Establish market leadership position in both B2B coordination + regenerative social
 
 **Key Activities**:
 1. **Token Sale Preparation**:
@@ -326,10 +362,19 @@ Total:                  $90K
    - Enterprise pilots: 2-3 large organizations ($2-5K/mo contracts)
 
 **Success Criteria**:
-- 50 paying customers by Month 18
-- $540K ARR (profitable, token-ready)
-- 50+ DAOs committed to token sale ($5M raised)
-- Market leadership recognized (top 3 in DAO coordination category)
+- 40 B2B paying customers + 1,500 consumer users by Month 18
+- $954K ARR (profitable, token-ready, diversified revenue)
+- 50+ DAOs committed to token sale ($5M raised minimum, $10M stretch goal)
+- Market leadership recognized in both categories:
+  - Top 3 in DAO/NS coordination (B2B)
+  - #1 in regenerative social platforms (consumer)
+
+**Consumer Social Scaling (Months 13-18)**:
+- Scale from 1 NS pilot → 5 network states
+- Grow from 300 users → 1,500 users ($522K ARR at $29/mo)
+- Launch native mobile apps (React Native, iOS + Android)
+- Activate facilitator economy (50+ facilitators earning $500-2K/month)
+- Validate multi-stream revenue (freemium + NS subscriptions + facilitator transactions)
 
 ---
 
