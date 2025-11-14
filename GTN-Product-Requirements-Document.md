@@ -146,9 +146,9 @@ The Collective Evolution Framework is GTN's infrastructure for making this proce
 
 ### Three States of Human Consciousness
 
-The framework maps human development across three consciousness states, derived from the Gene Keys system and validated through 27,000+ EVOLUTION.LIFE user journeys:
+The framework maps human development across three consciousness states, derived from 27,000+ EVOLUTION.LIFE users' actual coordination data:
 
-#### 1. Reactive (Shadow State)
+#### 1. Reactive State
 **Characteristics**:
 - Triggered by external events and unconscious patterns
 - Emotional reactivity dominates decision-making
@@ -161,7 +161,7 @@ The framework maps human development across three consciousness states, derived 
 
 **Developmental Edge**: Learning to pause between trigger and reaction, developing self-awareness of unconscious patterns.
 
-#### 2. Responsive (Gift State)
+#### 2. Responsive State
 **Characteristics**:
 - Conscious awareness of patterns and triggers
 - Ability to choose healthy responses even under stress
@@ -174,7 +174,7 @@ The framework maps human development across three consciousness states, derived 
 
 **Developmental Edge**: Stabilizing responsive patterns so they become default behavior, not just peak moments.
 
-#### 3. Realized (Siddhi State)
+#### 3. Realized State
 **Characteristics**:
 - Embodied mastery of transformation patterns
 - Consistent responsive behavior across all contexts
@@ -196,22 +196,22 @@ Through analysis of 27,000+ EVOLUTION.LIFE users, GTN has identified 14 specific
 #### Cluster 1: Fruitful Power (4 Patterns)
 Patterns related to individual agency, leadership, and influence within groups.
 
-1. **Control ↔ Influence** (Gene Key 1)
+1. **Control ↔ Influence**
    - Reactive: Need to control outcomes, micromanagement
    - Responsive: Influence through inspiration and trust
    - Realized: Natural authority that empowers others
 
-2. **Competition ↔ Collaboration** (Gene Key 5)
+2. **Competition ↔ Collaboration**
    - Reactive: Win-lose dynamics, scarcity mindset
    - Responsive: Collaborative problem-solving, abundance mindset
    - Realized: Synergy creation, 1+1=3 coordination
 
-3. **Conflict ↔ Diplomacy** (Gene Key 6)
+3. **Conflict ↔ Diplomacy**
    - Reactive: Avoidance or aggression in conflict
    - Responsive: Skillful navigation of differences
    - Realized: Conflict as evolutionary catalyst
 
-4. **Leadership ↔ Service** (Gene Key 7)
+4. **Leadership ↔ Service**
    - Reactive: Domination or subservience
    - Responsive: Leadership through authentic service
    - Realized: Servant leadership as natural expression
@@ -219,17 +219,17 @@ Patterns related to individual agency, leadership, and influence within groups.
 #### Cluster 2: Management (3 Patterns)
 Patterns related to resource allocation, planning, and execution.
 
-5. **Rigidity ↔ Flexibility** (Gene Key 25)
+5. **Rigidity ↔ Flexibility**
    - Reactive: Rigid adherence to plans or chaotic improvisation
    - Responsive: Adaptive planning, dynamic adjustment
    - Realized: Flow with structure, spontaneous order
 
-6. **Efficiency ↔ Effectiveness** (Gene Key 32)
+6. **Efficiency ↔ Effectiveness**
    - Reactive: Busy-ness without impact or perfectionist paralysis
    - Responsive: Strategic prioritization, impactful action
    - Realized: Effortless effectiveness, right action
 
-7. **Distraction ↔ Focus** (Gene Key 56)
+7. **Distraction ↔ Focus**
    - Reactive: Scattered attention, overwhelm
    - Responsive: Concentrated focus on highest-leverage activities
    - Realized: Presence that naturally finds signal in noise
@@ -237,17 +237,17 @@ Patterns related to resource allocation, planning, and execution.
 #### Cluster 3: Communication (3 Patterns)
 Patterns related to information sharing, transparency, and collective sense-making.
 
-8. **Dishonesty ↔ Transparency** (Gene Key 29)
+8. **Dishonesty ↔ Transparency**
    - Reactive: Hiding information, manipulation
    - Responsive: Authentic communication, appropriate vulnerability
    - Realized: Radical honesty that serves collective truth
 
-9. **Gossip ↔ Communication** (Gene Key 23)
+9. **Gossip ↔ Communication**
    - Reactive: Destructive gossip, information hoarding
    - Responsive: Clear, direct communication
    - Realized: Communication as evolutionary tool
 
-10. **Confusion ↔ Clarity** (Gene Key 64)
+10. **Confusion ↔ Clarity**
     - Reactive: Mental overwhelm, analysis paralysis
     - Responsive: Clear thinking, decisive action
     - Realized: Clarity that illuminates collective path
@@ -255,12 +255,12 @@ Patterns related to information sharing, transparency, and collective sense-maki
 #### Cluster 4: Leadership & Vision (2 Patterns)
 Patterns related to long-term thinking, purpose, and collective direction.
 
-11. **Arrogance ↔ Humility** (Gene Key 26)
+11. **Arrogance ↔ Humility**
     - Reactive: Ego inflation or self-deprecation
     - Responsive: Humble confidence, learning orientation
     - Realized: Egoless mastery that empowers all
 
-12. **Vision ↔ Purpose** (Gene Key 45)
+12. **Vision ↔ Purpose**
     - Reactive: Short-term reactive goals or idealistic fantasy
     - Responsive: Aligned vision serving collective purpose
     - Realized: Visionary leadership that manifests collective potential
@@ -268,12 +268,12 @@ Patterns related to long-term thinking, purpose, and collective direction.
 #### Cluster 5: Innovation (2 Patterns)
 Patterns related to creativity, experimentation, and collective learning.
 
-13. **Chaos ↔ Innovation** (Gene Key 3)
+13. **Chaos ↔ Innovation**
     - Reactive: Overwhelming chaos or rigid resistance to change
     - Responsive: Creative experimentation, adaptive innovation
     - Realized: Breakthrough innovation through chaos navigation
 
-14. **Stagnation ↔ Progress** (Gene Key 53)
+14. **Stagnation ↔ Progress**
     - Reactive: Stuck in comfort zone or reckless change
     - Responsive: Sustainable progress, evolutionary pace
     - Realized: Natural momentum toward collective flourishing
