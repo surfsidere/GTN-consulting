@@ -1,8 +1,22 @@
 # GTN Documentation
 
-## Document Structure (3 Core Documents)
+## Document Structure (5 Core Documents)
 
-### 1. GTN-Platform-Vision.md (32K)
+### 1. GTN-Synthesized-Roadmap.md (40K) 🗺️ **START HERE**
+**Purpose**: Objectives-focused roadmap visualizing current state → development vectors
+**Audience**: Entire team, strategic planning, execution clarity
+**Contains**:
+- **Part 1: Collective Evolution Framework** (The core innovation connecting everything)
+- **Part 2: Current State** (EVOLUTION.LIFE foundation, pre-launch planning reality)
+- **Part 3: Development Vectors** (Social Platform, Economic Coordination, Content Marketing, Slack Integration)
+- **Part 4: Integration Vision** (How vectors interconnect through collective evolution)
+- **Part 5: Strategic Objectives** (Phase 0-3 success criteria, no timelines)
+
+**When to use**: Understanding GTN holistically, planning execution priorities, team alignment
+
+---
+
+### 2. GTN-Platform-Vision.md (32K)
 **Purpose**: Complete platform strategy and capabilities
 **Audience**: Product team, NS partners, strategic overview
 **Contains**:
@@ -32,7 +46,22 @@
 
 ---
 
-### 3. GTN-Risk-Analysis-Multi-Strategy.md (26K)
+### 4. GTN-Regenerative-Social-Platform-Vision.md (45K) 🌱 **STRATEGIC EXPANSION**
+**Purpose**: Evolution from B2B → Consumer social platform replacing extractive social media
+**Audience**: Founders, investors, strategic partners, product team
+**Contains**:
+- Evidence-based critique of social media failures (performativity, extraction, mental health)
+- 7 biomimetic design patterns (mycelial networks, immune systems, regenerative agriculture)
+- Anti-performative design (5 structural constraints eliminating vanity metrics)
+- Multi-stream revenue model (7 streams: freemium, NS, DAO, transactions, pop-ups, co-living, enterprise)
+- Physical-digital integration (pop-up cities + co-living)
+- 36-month implementation roadmap ($8.45M Year 3 revenue)
+
+**When to use**: Strategic planning, consumer social vision, regenerative platform design
+
+---
+
+### 5. GTN-Risk-Analysis-Multi-Strategy.md (26K)
 **Purpose**: Evidence-based risk analysis and portfolio approach
 **Audience**: Strategic planning, risk assessment
 **Contains**:
@@ -47,10 +76,13 @@
 
 ## Quick Reference
 
+**New to GTN?** → GTN-Synthesized-Roadmap.md 🗺️ **START HERE**
 **Need platform overview?** → GTN-Platform-Vision.md
 **Need capitalization strategy?** → GTN-Bootstrap-Capitalization-Strategy.md ⭐
+**Need social platform vision?** → GTN-Regenerative-Social-Platform-Vision.md 🌱
 **Need risk analysis?** → GTN-Risk-Analysis-Multi-Strategy.md
 **Need quick investor pitch?** → Bootstrap Capitalization executive summary
+**Need execution roadmap?** → GTN-Synthesized-Roadmap.md (objectives-focused, no timelines)
 
 ---
 
@@ -90,4 +122,4 @@ Contains superseded strategies and previous iterations:
 ---
 
 **Last Updated**: January 2025
-**Status**: Clean 3-document structure with active bootstrap capitalization strategy
+**Status**: 5-document structure with synthesized roadmap, B2B platform, bootstrap capitalization, and regenerative social expansion strategies
